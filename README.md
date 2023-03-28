@@ -15,11 +15,11 @@ scikit-learn
 You can install these libraries using pip. Open the command prompt and type the following command:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-'''
+```
 To run the project, open the command prompt, navigate to the project directory, and run the following command:
 ```bash
 python liver_disease_prediction.py
-'''
+```
 ## Dataset
 The dataset used for this project is obtained from Kaggle. The dataset contains data about chemical compounds obtained from tests like SGOT, SGPT which mentions whether a patient needs to be diagnosed or not. The dataset has 583 rows and 11 columns.
 
